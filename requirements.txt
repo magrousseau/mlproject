@@ -27,3 +27,7 @@ six>=1.14
 joblib
 memoized-property
 termcolor
+
+git+https://github.com/migasar/cookbook
+git+https://github.com/corentingaret/test_package
+git+https://github.com/SAO86/salouapackage
